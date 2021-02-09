@@ -17,3 +17,10 @@ def link
   puts c_phrase
 end
 link
+
+def all_phrases
+  puts mario
+  puts toadstool
+  puts link
+end
+all_phrases
